@@ -1,0 +1,1 @@
+You have to download the VSC editor from the official site of VSC.
